@@ -1,0 +1,5 @@
+- 👋 Hi, I’m shaxzod
+- 👀 I’m interested in python
+- 🌱 I’m currently learning aiogram
+- 💞️ I’m looking to collaborate on backend developers
+- 📫 How to reach me https://t.me/sht_0618
